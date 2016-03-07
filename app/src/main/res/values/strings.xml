@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AccessingResources</string>
+    <string name="button_name">Test Me</string>
+    <string name="SecondView">A new Text View</string>
+    <string name="action_settings">Settings</string>
+</resources>
